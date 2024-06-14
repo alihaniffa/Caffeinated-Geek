@@ -1,0 +1,5 @@
+Order details:
+       Name: 
+       Order number: Ali Haniffa
+       Item: Mocha (30213)
+       Milk: ALMOND

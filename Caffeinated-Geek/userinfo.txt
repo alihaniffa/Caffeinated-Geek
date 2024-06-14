@@ -1,0 +1,290 @@
+
+Order details:
+       Name: Ali Haniffa 
+       Order number: 0434034297
+       Item: Mocha (30213)
+       Milk: ALMOND
+Order details:
+       Name: Ali Haniffa
+       Order number: 0434034297
+       Item: Mocha (30213)
+       Milk: FULL_CREAM
+Order details:
+       Name: Aasiya Haniffa
+       Order number: 0416120150
+       Item: Flat White Sucre (30223)
+       Milk: Soy
+Order details:
+       Name: Seiam Farighi
+       Order number: 0420309393
+       Item: Flat White Sucre (30223)
+       Milk: Soy
+Order details:
+       Name: Crash Bandicoot 
+       Order number: 040404040429
+       Item: Affogato (30218)
+       Milk: No_milk
+Order details:
+       Name: Schmuck Arino
+       Order number: 10582358091
+       Item: Mocha (30213)
+       Milk: Full_cream
+Order details:
+       Name: Belal Haniffa
+       Order number: 0401587443
+       Item: Mocha (30213)
+       Milk: Full cream
+Order details:
+       Name: Zameer Syed
+       Order number: 04304250124
+       Item: Mocha (30213)
+       Milk: Full cream
+Order details:
+       Name: Roeen Kareemy
+       Order number: 04125051255
+       Item: Affogato (30218)
+       Milk: No milk
+Order details:
+       Name: Belal Haniffa
+       Order number: 0416120150
+       Item: Cappuccino (30210)
+       Milk: Full cream
+Order details:
+       Name: Bob Meyers
+       Order number: 043156123613
+       Item: Cappuccino (30210)
+       Milk: Full cream
+Order details:
+       Name: Steph Curry
+       Order number: 015532652674
+       Item: Cappuccino (30210)
+       Milk: Soy
+Order details:
+       Name: Klay Thompson
+       Order number: 12455671290567
+       Item: Affogato (30218)
+       Milk: No milk
+Order details:
+       Name: Seiam Farighi 
+       Order number: 045252315123
+       Item: Cappuccino (30210)
+       Milk: Full cream
+Order details:
+       Name: Young Sheldon
+       Order number: 04315136232
+       Item: Mocha (30213)
+       Milk: Full cream
+Order details:
+       Name: Ali Hashimi
+       Order number: 0151253612
+       Item: Mocha (30213)
+       Milk: Almond
+Order details:
+       Name: Adolf
+       Order number: 051234141
+       Item: Mocha (30213)
+       Milk: Almond
+Order details:
+       Name: Smuckarino
+       Order number: 13515631261
+       Item: Flat White Sucre (30223)
+       Milk: Oat
+Order details:
+       Name: Lebron James
+       Order number: 230623230623
+       Item: Mocha (30213)
+       Milk: Almond
+Order details:
+       Name: Roeen Kareemy
+       Order number: 041213150
+       Item: Cappuccino (30210)
+       Milk: Full cream
+Order details:
+       Name: Seiam
+       Order number: 01235105
+       Item: Cappuccino (30210)
+       Milk: Full cream
+Order details:
+       Name: Anthony Edwards
+       Order number: 05060912049
+       Item: Flat White Sucre (30223)
+       Milk: Oat
+Order details:
+       Name: Rudy
+       Order number: 1241451412
+       Item: Flat White Sucre (30223)
+       Milk: Oat
+Order details:
+       Name: Yon Tak Yu
+       Order number: 1515315
+       Item: White Tea (49959)
+       Milk: I dont mind
+Order details:
+       Name: Taha Elsukkari
+       Order number: 1521515
+       Item: Flat White Sucre (30223)
+       Milk: Oat
+Order details:
+       Name: Bahdon Robleh
+       Order number: 04125315112
+       Item: White Tea (49959)
+       Milk: I dont mind
+Order details:
+       Name: Ali Hashimi
+       Order number: 12450919253
+       Item: English Breakfast (33959)
+       Milk: Full cream
+Order details:
+       Name: Jane Doe
+       Order number: 0515214512
+       Item: Cappuccino (30210)
+       Milk: Full cream
+Order details:
+       Name: Bob Iger
+       Order number: 21414515123
+       Item: Jasmine Green Tea (31596)
+       Milk: I dont mind
+Order details:
+       Name: Ali Haniffa
+       Order number: 0415125125
+       Item: English Breakfast (33959)
+       Milk: Full cream
+Order details:
+       Name: Ali Capa
+       Order number: 1512412
+       Item: Cappuccino (30210)
+       Milk: Full cream
+Order details:
+       Name: Ali hAniffa
+       Order number: 1514512412
+       Item: Jasmine Green Tea (31596)
+       Milk: I dont mind
+Order details:
+       Name: Ali HAniffa
+       Order number: 1241412
+       Item: English Breakfast (33959)
+       Milk: Full cream
+Order details:
+       Name: Ali Haniffa
+       Order number: 0434034297
+       Item: Cappuccino (30210)
+       Milk: Full cream
+Order details:
+       Name: Hello
+       Order number: 0432515
+       Item: Cappuccino (30210)
+       Milk: Full cream
+Order details:
+       Name: Ali Haniffa
+       Order number: 0434034297
+       Item: Cappuccino (30210)
+       Milk: Full cream
+
+I already did
+Order details:
+       Name: Ali Haniffa
+       Order number: 0434034297
+       Item: Cappuccino (30210)
+       Milk: Full cream
+
+Sweet
+Order details:
+       Name: Karl Anthony-Towns
+       Order number: 3551241
+       Item: Cappuccino (30210)
+       Milk: Full cream
+
+Air Ball
+Order details:
+       Name: Karl Anthony-Towns
+       Order number: 3551241
+       Item: Cappuccino (30210)
+       Milk: Full cream
+
+Air Ball
+Order details:
+       Name: Anthony Edwards
+       Order number: 5105125
+       Item: Cappuccino (30210)
+       Milk: Full cream
+
+Bring yo ass
+Order details:
+       Name: Mike Conley
+       Order number: 126135412
+       Item: Flat White Sucre (30223)
+       Milk: Oat
+
+
+Order details:
+       Name: Lamelo Ball
+       Order number: 12314
+       Item: Cappuccino (30210)
+       Milk: Full cream
+       Custom Order: He cant guard me
+
+He cant guard me
+Order details:
+       Name: Seiam Farighi
+       Order number: 031250
+       Item: Cappuccino (30210)
+       Milk: Full cream
+       Custom Order: Hrrny
+
+Hrrny
+Order details:
+       Name: Roeen Kareemy
+       Order number: 0601250
+       Item: Cappuccino (30210)
+       Milk: Full cream
+       Custom Order: El Jannah
+
+El Jannah
+Order details:
+       Name: Seiam Farighi
+       Order number: 06205620
+       Item: Flat White Sucre (30223)
+       Milk: Oat
+       Custom Order: Poop Flavoured
+
+Poop Flavoured
+Order details:
+       Name: Kibriya Raja
+       Order number: 026023
+       Item: Cappuccino (30210)
+       Milk: Full cream
+       Custom Order: Pokemon Flavoured
+
+Pokemon Flavoured
+Order details:
+       Name: Anakin Skywalker
+       Order number: 0315235
+       Item: English Breakfast (33959)
+       Milk: Full cream
+       Custom Order: Allegiance to my new empire
+
+Allegiance to my new empire
+Order details:
+       Name: Obi-Wan Kenobi
+       Order number: 05312501
+       Item: Oolong Latte (94885)
+       Milk: Full cream
+       Custom Order: Galactic Republic Special
+
+Galactic Republic Special
+Order details:
+       Name: Baby Yoda
+       Order number: 051051850
+       Item: English Breakfast (33959)
+       Milk: Full cream
+       Custom Order: Mandalorian Flavour 
+
+Mandalorian Flavour 
+Order details:
+       Name: Seiam
+       Order number: 19351095910
+       Item: Flat White Sucre (30223)
+       Milk: Oat
+       Custom Order: Nonce Flavoured
+
+Nonce Flavoured
